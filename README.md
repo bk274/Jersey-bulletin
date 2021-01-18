@@ -1,9 +1,7 @@
 ![The Jersey Bulletin](https://i.imgur.com/6orq2qv.png)
 *CS490, Group 8 Final Project*
-
 ---
-[Click here for a live deployment of the Jersey Bulletin!](https://jersey-bulletin.herokuapp.com/)
-(https://i.imgur.com/a/xqcrN2J.png)
+![Screenshot](screenshot.png)
 
 The Jersey Bulletin is an open forum for New Jersey residents while also acting as a one stop shop for information you may need as a New Jersey resident. This web app will feature different tabs containing different information relating to different aspects of life in the Garden state. Some of the information we hope to relay to the user include weather, politics, traffic, and news. Along with this information, all tabs will also feature their own bulletin board. In order to add any messages to the bulletin board, you must sign in with your Google account via OAuth.
 
